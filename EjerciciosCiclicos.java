@@ -73,9 +73,9 @@ public class EjerciciosCiclicos {
         /*System.out.println("Ingrese un numero para calcular su factorial:");
         int numerox=teclado.nextInt();
         System.out.println("Factoria de "+numerox+" es:"+ hallarFactorial(numerox));*/
-        //calcularFuncionExponecial();
+        calcularFuncionExponecial();
 
-        hallarSenoX();
+        //hallarSenoX();
     }
 
 }
